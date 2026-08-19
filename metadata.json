@@ -1,0 +1,6 @@
+{
+  "name": "Furniture Store By Sheheryar",
+  "description": "Luxury designer furniture showroom in Faisalabad offering bespoke living, bedroom, curved sofas, and custom statement furniture pieces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
